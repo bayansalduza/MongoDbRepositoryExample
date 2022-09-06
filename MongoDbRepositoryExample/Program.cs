@@ -17,7 +17,7 @@ namespace MongoDbRepositoryExample
                 };
 
                 //repository.Add(model);                                            //Add to database
-                //var data = repository.Get(x => x.Soyad == "Günay");               //It retrieves data according to the given condition.
+                //var data = repository.Get(x => x.Soyad == "ExampleLastName");               //It retrieves data according to the given condition.
                 //var datas = repository.GetAll();                                  //It pulls all the data. -> Returns in foreach.
                 //var datas = repository.GetAll(x => x.Soyad == "ExampleLastName"); //Retrieves all data matching the given condition.
                 //repository.Update(x => x.Soyad == "ExampleLastName", model);      //Updates the incoming data according to the condition.
